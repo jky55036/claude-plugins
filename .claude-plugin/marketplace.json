@@ -1,0 +1,18 @@
+{
+  "name": "jacky-local",
+  "owner": {
+    "name": "Jacky"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./plugins/usage-band",
+      "description": "輸入框上方的用量細帶：context、五小時與本週額度、主對話快取倒數"
+    },
+    {
+      "name": "context-handoff",
+      "source": "./plugins/context-handoff",
+      "description": "Context 用到七成時在輸入框上方顯示交接按鈕：寫交接摘要存檔、清空對話、以摘要開新對話"
+    }
+  ]
+}
