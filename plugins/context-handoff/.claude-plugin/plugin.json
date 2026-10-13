@@ -1,6 +1,5 @@
 {
   "name": "context-handoff",
-  "version": "0.1.0",
   "description": "Context 用到七成時在輸入框上方顯示交接按鈕：寫交接摘要存檔、清空對話、以摘要開新對話",
   "author": {
     "name": "Jacky"

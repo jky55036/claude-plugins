@@ -1,6 +1,5 @@
 {
   "name": "usage-band",
-  "version": "0.1.11",
   "description": "輸入框上方的用量細帶：context、五小時與本週額度、主對話快取倒數",
   "author": { "name": "Jacky" },
   "types": "./types/index.d.ts"
