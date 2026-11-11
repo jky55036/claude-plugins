@@ -13,6 +13,11 @@
       "name": "context-handoff",
       "source": "./plugins/context-handoff",
       "description": "Context 用到七成時在輸入框上方顯示交接按鈕：寫交接摘要存檔、清空對話、以摘要開新對話"
+    },
+    {
+      "name": "sync-buttons",
+      "source": "./plugins/sync-buttons",
+      "description": "輸入框上方的「同步GitHub」「同步設定」按鈕，分別執行同步Git與 /sync-config"
     }
   ]
 }
